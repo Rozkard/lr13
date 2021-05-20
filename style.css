@@ -1,6 +1,5 @@
 .car{
 	margin-top: 10px;
-	width: 900px;
 	border: 1px solid green;
 }
 BODY{
@@ -15,5 +14,4 @@ BODY{
 }
 .cards{
 	margin-top: 30px;
-	display : inline-block;
 }
